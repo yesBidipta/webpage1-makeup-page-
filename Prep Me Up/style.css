@@ -1,0 +1,51 @@
+header{
+    background-color: hotpink;
+}
+.heading{
+    color:white;
+    text-align: center;
+}
+.sub{font-size:16;
+text-align:center;
+color: white;}
+.types{
+    text-align: center;;
+}
+.offers{
+    background-color: hotpink;
+    font-style: arial;
+    text-align: center;
+
+}
+.celebritypicks{
+    color:black;
+    background-color: hotpink;
+    text-decoration: none;
+    text-align: center;
+    font-style: arial;
+}
+.picks{
+    color:black;
+    font-style: italic;
+    font-weight: bolder;
+    text-decoration: none;
+    text-align: center;
+}
+.bundle{
+    color: black;
+    font-style: serif;
+}
+.description{
+    text-decoration: none;
+    background-color: rgb(209, 49, 103);
+    color: white;
+    text-align: center;
+}
+.info{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
